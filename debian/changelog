@@ -1,8 +1,0 @@
-ros-melodic-turtlebot3-applications-msgs (1.0.0-0stretch) stretch; urgency=high
-
-  * separated turtlebot3_msgs and applications related messages
-  * Contributors: Darby Lim
-
- -- Pyo <pyo@robotis.com>  Mon, 28 May 2018 15:00:00 -0000
-
-
