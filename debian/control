@@ -1,0 +1,12 @@
+Source: ros-melodic-turtlebot3-applications-msgs
+Section: misc
+Priority: extra
+Maintainer: Pyo <pyo@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-message-generation, ros-melodic-sensor-msgs, ros-melodic-std-msgs
+Homepage: http://wiki.ros.org/turtlebot3_applications_msgs
+Standards-Version: 3.9.2
+
+Package: ros-melodic-turtlebot3-applications-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-message-runtime, ros-melodic-sensor-msgs, ros-melodic-std-msgs
+Description: Message and service types: custom messages and services for TurtleBot3 Applications packages
